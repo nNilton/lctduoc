@@ -5,7 +5,7 @@
 		"LIFERAY_ROUTES_DXP": "/etc/liferay/lxc/dxp-metadata",
 		"LIFERAYSAMPLEETCSPRINGBOOTOAUTHAPPLICATIONUSERAGENT_OAUTH2_HEADLESS_SERVER_CLIENT_ID": "server oauth client id",
     	"LIFERAYSAMPLEETCSPRINGBOOTOAUTHAPPLICATIONUSERAGENT_OAUTH2_HEADLESS_SERVER_CLIENT_SECRET": "oauth client secret",
-    	"LIFERAYSAMPLEETCSPRINGBOOTOAUTHAPPLICATIONUSERAGENT_OAUTH2_USER_AGENT_CLIENT_ID": "agent - oauth client id"
+    	"LIFERAYSAMPLEETCSPRINGBOOTOAUTHAPPLICATIONUSERAGENT_OAUTH2_USER_AGENT_CLIENT_ID": "id-543f47f3-de96-49fd-57ac-eb4bdafb1"
 	},
 	"environments": {
 		"infra": {
@@ -26,7 +26,7 @@
 			}
 		}
 	},
-	"id": "liferay-sample-etc-spring-boot",
+	"id": "liferaysampleetcspringboot",
 	"kind": "Deployment",
 	"livenessProbe": {
 		"httpGet": {
